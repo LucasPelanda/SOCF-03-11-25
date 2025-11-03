@@ -7,7 +7,7 @@ APP = Flask(__name__)
 
 
 def index():
-    return "<h1>Olá mundo chatoooooa</h1>"
+    return "<h1>Lucas Antonio Pelanda</h1>"
 
 if __name__ == '__main__':
     APP.run(host='0.0.0.0', port=80)
